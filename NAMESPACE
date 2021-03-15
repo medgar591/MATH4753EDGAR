@@ -2,4 +2,5 @@
 
 export(mybin)
 export(myfirstfun)
+export(myncurve)
 export(piecewise1)
